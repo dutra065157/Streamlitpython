@@ -1,1 +1,1 @@
-# Streamlitpython
+ Aplicação Interativa de Visualização de Dados com Streamlit Este repositório contém um exemplo de código em Python que demonstra como criar uma aplicação interativa de visualização de dados usando uma biblioteca Streamlit. A aplicação é projetada para exibir informações de um conjunto de dados em formato CSV e permitir a seleção de diferentes períodos de tempo para visualização. ## Visão Geral A aplicação é construída utilizando as bibliotecas Python **Streamlit** e **Pandas**.
